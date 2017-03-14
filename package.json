@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/brugambwa/CathyBot/issues"
   },
-  "homepage": "https://github.com/brugambwa/CathyBot#readme"
+  "homepage": "https://github.com/brugambwa/CathyBot#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
 }
