@@ -1,0 +1,19 @@
+{
+  "name": "cathybotexample",
+  "version": "1.0.0",
+  "description": "FB Messenger bot test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brugambwa/CathyBot.git"
+  },
+  "author": "CB Changed By BR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brugambwa/CathyBot/issues"
+  },
+  "homepage": "https://github.com/brugambwa/CathyBot#readme"
+}
